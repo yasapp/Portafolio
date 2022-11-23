@@ -1,0 +1,11 @@
+.skills__title{
+    font-weight: bold; 
+    text-shadow: 5px 5px 7px black; 
+    font-size: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+@media screen and (max-width:768px) {
+    .skills__title{
+        font-size: 2rem;
+    }
+}

@@ -1,0 +1,7 @@
+.academic__img{
+    height: 300px;
+    width: 350px;
+    margin: 1rem 0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+    border-radius: 5px;
+}

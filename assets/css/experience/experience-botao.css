@@ -1,0 +1,10 @@
+.experience__botao{
+    background-color: rgb(38, 48, 239);
+    color: white;
+    padding: .6rem;
+    border-radius: 5px;
+}
+.experience__botao:hover{
+    background-color: rgb(24, 30, 145);
+    cursor: pointer;
+}

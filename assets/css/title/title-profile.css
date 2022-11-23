@@ -1,0 +1,12 @@
+.title__profile{
+    height: 500px;
+    border-radius: 100%;
+    margin: 2rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+}
+@media screen and (max-width:768px){
+    .title__profile{
+        height: 300px;
+    }
+    
+}

@@ -1,0 +1,11 @@
+.experience__section__title{
+    text-align: center;
+    font-size: 3rem;
+    text-shadow: 5px 5px 7px black; 
+
+}
+@media screen and (max-width:768px) {
+ .experience__section__title{
+    font-size: 2rem;
+ }   
+}

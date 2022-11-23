@@ -1,0 +1,11 @@
+.experience__img{
+    height: 500px;
+    width: 700px;
+}
+@media screen and (max-width:768px) {
+    .experience__img{
+        height: 200px;
+        width: 350px;
+    }
+    
+}

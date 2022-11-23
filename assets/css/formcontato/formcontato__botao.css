@@ -1,0 +1,10 @@
+.formcontato__botao{
+    background-color: rgb(64, 0, 255);
+    color: white;
+    border-radius: 5px;
+    padding: .7rem;
+}
+.formcontato__botao:hover{
+    cursor: pointer;
+    background-color: rgb(5, 5, 136);
+}

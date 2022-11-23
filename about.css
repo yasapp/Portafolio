@@ -1,0 +1,14 @@
+.about{
+    margin: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.7rem;
+    background-color: rgba(36, 54, 214, 0.829);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+    padding: 1rem;
+    line-height: 40px;
+}
+@media screen and (max-width:768px) {
+    .about{
+        font-size: 1rem;
+    }
+}

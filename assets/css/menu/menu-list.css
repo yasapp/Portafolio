@@ -1,0 +1,5 @@
+.menu__list{
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 1rem;
+}

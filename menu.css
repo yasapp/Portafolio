@@ -1,0 +1,25 @@
+.menu{
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-weight: bold;
+    background-color: rgb(191, 192, 206);
+    text-decoration-line:underline;
+    text-shadow: 5px 5px 7px rgb(55, 55, 108); 
+    justify-content: space-around;
+}
+@media screen and (max-width: 768px) {
+    .menu{
+        flex-direction: column;
+    }
+    
+}
+body{
+    background: url(/assets/img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    font-size: 1rem;   
+}

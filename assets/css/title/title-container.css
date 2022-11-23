@@ -1,0 +1,9 @@
+.title__container{
+    width: 400px;
+    height: 110px;
+    font-size: 1.4rem;
+    padding: 1rem;
+    background-color: rgba(36, 54, 214, 0.829);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+    background-size: auto;   
+}

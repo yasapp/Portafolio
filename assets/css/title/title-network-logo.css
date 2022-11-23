@@ -1,0 +1,10 @@
+.title__network--logo{
+    width: 70px;
+    height: 70px;
+    margin: 2rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+    padding: 1rem;
+    background-color: rgba(251, 252, 253, 0.7);
+    border-radius: 10px; 
+
+}

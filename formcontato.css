@@ -1,0 +1,16 @@
+.formcontato{
+    background: url('/assets/img/informatica-2.jpg');
+    margin: 2rem 6.2rem;
+    padding: 1rem;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+    border-radius: 10px;
+}
+@media screen and (max-width: 768px) {
+    .formcontato{
+        margin: 1rem 1rem;
+    }
+    
+}
